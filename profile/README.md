@@ -1,12 +1,9 @@
-## Hi there 👋
+# Enix Studios 🔥
 
-<!--
+Enix Studios é uma equipe privada de desenvolvimento, focada em várias áreas da tecnologia, com especialidade em **Minecraft**.  
+Atuamos em plataformas como **Mobile**, **Sites**, **Servidores**, **Bukkit**, **Forge**, **BungeeCord**, e mais, criando sistemas únicos e inovadores. 🎮
 
-**Here are some ideas to get you started:**
+Somos responsáveis por todos os sistemas da **Rede Warriors**, desde funcionalidades básicas até as mais complexas.  
+Não atendemos comissões externas, sendo uma equipe dedicada exclusivamente a projetos internos. 🚫
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Enix Studios** é como uma fênix 🦅, que ainda irá voar alto, incendiando com inovação o que merece renascer.
